@@ -1,1 +1,67 @@
+ Datacom Assignment
+1.According to TCP/IP model given protocol belongs to-
+  Application Layer-
+                    FTP(File transfer Protocol)
+                 
+                    SMTP(Simple mail transfer protocol, used for mail delivery)
+                    Talenet,
+                    SNMP(Collects network related information)
+  Transport Layer -
+                   TCP(Reliable delivery of data)
+                   UDP(User datagram protocol)
+  Network layer-
+                 IP(Internet protocol)
+                 ICMP(internet control msg protocol, used for testing)
+                 IGMP(used for Management multicast group)
+  Datalink layer-
+                 PPP(Encapsulation Protocol open standard)
+                  HDLC(layer 2 encapsulation protocol)
+
+2.the given Network contains -Collision domain-9
+                              Broadcast domain-4
+
+3.for 100.100.100.100 n/w 21 subnet-
+ a)The class of the IP address-class A
+ b)the default subnet mask is-255.255.248.0
+ c) the network address is-100.100.96.0
+ d)the requiored subnet mask is-
+ e)the maximum subnet that r avilable with this subnet mask is-
+ f)List of subnets
+ g)the subnet that ip address is fall on-
+ h)the range of ip address that occur on this subnet is-
+ i)the host address-
+ j)the maximum no.of subnet that occur on this subnet is-2046
+ k)the class of this ip address is-A
+
+4.a)root bridge id-
+  b)rootport-
+    designated port-
+  c)non designated port-
+5.
+  a)When a new trunk link is configured on an IOS based switch,which VLANs allowed over the link-
+   i)By default all VLANs are allowed on trunk.
+  b)Static VLANs used over the company network. What is the true about vlan-
+    ii.attached devices are unaware of any VLANs
+  c)the trunking protocol used on a trunk link between two switches- v)802.1Q
+  d)ans- iii.filters the frame.
+  e)the VTP functions of osi model-ii)ie datalink layer.
+
+7.Etherchannel,LACP,Pgp
+ ans a)port channel
+     b)LACP
+     c)PAgP auto,PAgP desirable
+
+8.
+  1.RIPV2 updates-                         UDP port no. 520.
+  2.supports subneting & authentication-   RIPV2
+  3.classful routing protocol-             RIPv1
+  4. RIPV1 updates-                        255.255.255.255
+  5.RIPV1 & RIPV2 message-                 224.0.0.9
+
+9.
+
+
+10.
+   a)the range of ASN that can be assigned Network using BGP- 1 to 65535
+   B) ans-External BGP 
 
